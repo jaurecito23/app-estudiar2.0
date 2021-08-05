@@ -1,0 +1,2 @@
+# app-estudiar2.0
+REDISEÑO DE APP_ESTUDIAR1.0
